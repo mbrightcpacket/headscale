@@ -88,7 +88,7 @@ Please have a look at the [`documentation`](https://headscale.net/).
 ## Disclaimer
 
 1. This project is not associated with Tailscale Inc.
-2. The purpose of Headscale is maintaining a working, self-hosted Tailscale control panel.
+2. The purpose of Headscale is maintaining a working, self-hosted Tailscale control plane.
 
 ## Contributing
 
